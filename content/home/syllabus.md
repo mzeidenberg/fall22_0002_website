@@ -25,7 +25,7 @@ material.
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php).
 
 ## Office Hours
-Office hours will be held on Zoom this semester on Tuesdays and Thursdays from 1-3 PM starting on Sept. 6.
+Office hours will be held on Zoom this semester on Tuesdays and Thursdays from 11 AM to 1 PM starting on Sept. 6.
 
 The Zoom link for office hours is https://nyu.zoom.us/j/92211652314 which can also be found in Brightspace under the "Zoom" tab.
 
