@@ -29,7 +29,7 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |Th 10/20|   14|Functions, Part II; [lecture notebook](https://colab.research.google.com/drive/1NxmCuboEe11S1UfGnfshkj1o4NNCSU9S?usp=sharing)||||
 |Tu 10/25|   15|Midterm Exam Review Session; [review session notebook](https://colab.research.google.com/drive/1Jmk-vbWAaS7XNA8BT8A6_W35chh1hxK6?usp=sharing)||||
 |Th 10/27|   16|Midterm Exam||||
-|Tu 11/1|   17|String manipulation and processing text-based data; string slicing|self-paced learning module #7|[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php) and quiz |Gaddis, Chapter 8|
+|Tu 11/1|    17|String manipulation and processing text-based data, string slicing; [lecture notebook](https://colab.research.google.com/drive/1Ta3UyEitPrkfhGc8CSJ3Ue54D6WMAngU?usp=sharing)|self-paced learning module #7 |[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php) and quiz |Gaddis, Chapter 8|
 |Th 11/3|   18|Workshop|Assignment #6 (due F 11/4 at 11:59 PM)|Assignment #7||
 |Tu 11/8|   19|The "list" data type; working with lists; sorting lists; getting the maximum and minimum values from a list|Self-paced learning module #8 and quiz; |[Self-paced learning module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.php) and quiz |Gaddis, Chapter 7|
 |Th 11/10|   20|Workshop|Assignment #7 (due F 11/11 at 11:59 PM)|Assignment #8||
