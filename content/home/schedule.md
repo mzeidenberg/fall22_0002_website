@@ -31,15 +31,15 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |Th 10/27|   16|Midterm Exam||||
 |Tu 11/1|    17|String manipulation and processing text-based data, string slicing; [lecture notebook](https://colab.research.google.com/drive/1Ta3UyEitPrkfhGc8CSJ3Ue54D6WMAngU?usp=sharing)|self-paced learning module #7 |[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php) and quiz |Gaddis, Chapter 8|
 |Th 11/3|   18|Workshop|Assignment #6 (due F 11/4 at 11:59 PM)|Assignment #7||
-|Tu 11/8|   19|The "list" data type; working with lists; sorting lists; getting the maximum and minimum values from a list|Self-paced learning module #8 and quiz; |[Self-paced learning module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.php) and quiz |Gaddis, Chapter 7|
+|Tu 11/8|   19|The "list" data type; working with lists; sorting lists; getting the maximum and minimum values from a list; [lecture notebook](https://colab.research.google.com/drive/1TvuiSutQclB3_CKtsAUUVPrL9il8fdR2?usp=sharing) | Self-paced learning module #8 and quiz | [Self-paced learning module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.php) and quiz |Gaddis, Chapter 7|
 |Th 11/10|   20|Workshop|Assignment #7 (due F 11/11 at 11:59 PM)|Assignment #8||
-|Tu 11/15|   21|Unpacking strings into lists; obtaining string data from the web; file input and output|self-paced learning module #9 and quiz |[Self-paced learning module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.php) and quiz |Gaddis, Chapter 6|
+|Tu 11/15|   21|Unpacking strings into lists; obtaining string data from the web; file input and output; [lecture notebook](https://colab.research.google.com/drive/1OXVV08hFS-BVA9PpLCijIjlhNcxQu_6a?usp=sharing)|self-paced learning module #9 and quiz |[Self-paced learning module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.php) and quiz |Gaddis, Chapter 6|
 |Th 11/17|   22|Workshop|Assignment #8 (due F 11/18 at 11:59 PM)|Assignment #9||
-|Tu 11/22|   23|The "dictionary" data structure|self-paced learning module #10 and quiz; |[Self-paced learning module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php) and quiz |Gaddis, Chapter 9|
+|Tu 11/22|   23|The "dictionary" data structure; [lecture notebook](https://colab.research.google.com/drive/1MdRhwHv2Vvu6tPFAEBqoq-aNpywJJgk0?usp=sharing)|self-paced learning module #10 and quiz|[Self-paced learning module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.php) and quiz |Gaddis, Chapter 9|
 |Tu 11/24|   |No class, Thanksgiving||||
 |Tu 11/29|   24|Workshop|Assignment #9 (due F 11/25 at 11:59 PM)|Assignment #10||
-|Th 12/1|   25|Object-oriented programming|Self-paced learning module #11 and quiz ||Gaddis, Chapter 10|
+|Th 12/1|   25|Object-oriented programming; [lecture notebook](https://colab.research.google.com/drive/1RRSJOQqhX-7S7bL1hv9C9r2AF-VarVl3?usp=sharing)|Self-paced learning module #11 and quiz ||Gaddis, Chapter 10|
 |Tu 12/6|   26|Workshop|Assignment #10 (due W 12/7 at 11:59 PM)|Assignment #11||
 |Th 12/8|   27|Final Exam Review||||
 |Tu 12/13|   28|Final Exam Review|Assignment #11 (due before class)|||
-|TBA  |   --|[Final Exam, scheduled by the CS department](https://cs.nyu.edu/dynamic/courses/exams/?semester=spring_2022&level=UA)| | | |
+|W 12/21|   --|Final Exam, Online, 2 PM to 3:50 PM|||
