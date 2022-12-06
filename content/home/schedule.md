@@ -41,5 +41,5 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |Th 12/1|   25|Object-oriented programming; [lecture notebook](https://colab.research.google.com/drive/1RRSJOQqhX-7S7bL1hv9C9r2AF-VarVl3?usp=sharing)|Self-paced learning module #11 and quiz ||Gaddis, Chapter 10|
 |Tu 12/6|   26|Workshop|Assignment #10 (due W 12/7 at 11:59 PM)|Assignment #11||
 |Th 12/8|   27|Final Exam Review||||
-|Tu 12/13|   28|Final Exam Review|Assignment #11 (due before class)|||
+|Tu 12/13|   28|Final Exam Review|Assignment #11 (due at 11:59 PM)|||
 |W 12/21|   --|Final Exam, Online, 2 PM to 3:50 PM|||
